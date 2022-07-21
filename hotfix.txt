@@ -1,1 +1,2 @@
-this is a new hotfix
+this is a new hotfix.
+new line insert.
